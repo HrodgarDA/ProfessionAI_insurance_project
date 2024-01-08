@@ -2,7 +2,7 @@
 The goal of this project is to develop a machine learning model capable of evaluate the creditworthiness of people based on the following set of parameters:
 
 application_record.csv
-FEATURE                    NAME                	          {EXPLANATION}
+FEATURE                    NAME                	          {EXPLANATION} \n
 ID 	                       Client number	
 CODE_GENDER 	             Gender	
 FLAG_OWN_CAR	             Is there a car	
